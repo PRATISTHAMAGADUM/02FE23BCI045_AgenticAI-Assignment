@@ -106,10 +106,3 @@ This repository strictly adheres to the submission guidelines specified in the *
 
 ---
 
-## Course Project: Faculty Appraisal Management System
-
-* **Source Code Directory:** `Course Project Source Code/`
-* **Formal Project Report:** `Course Project Report.pdf`
-* **Architecture:** Autonomous Multi-Agent AI system automating faculty annual appraisal across Teaching, Research, and Institutional Administration.
-* **Core Concepts:** Implements all 12 Core Concepts of the Agentic AI curriculum.
-* **Verification:** Full test suite in `Course Project Source Code/tests/` running across agents, MCP connectors, SQLite scoped memory, node graph DAGs, swarms, and tamper-evident SHA-256 rolling hash chains.
